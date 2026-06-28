@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi, I'm Anchal 👋
 
-<!--
-**anchalyadav01/anchalyadav01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (Fresher) | MERN Stack & Python | Mumbai, India
 
-Here are some ideas to get you started:
+I build full-stack web applications with React, Node.js, and Express, and work with Python for backend logic and ML-based projects. Currently looking for full-time opportunities as a Full Stack / MERN / React Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**🔧 Tech I work with**
+
+`JavaScript` `React.js` `Node.js` `Express.js` `Python` `MongoDB` `MySQL` `Supabase` `REST APIs` `Git/GitHub`
+
+**🚀 Projects**
+
+- **LokRakshak** – Crime analytics platform with DBSCAN hotspot detection and a Random Forest risk model, built with React and Supabase
+- **Blood Bank Management System** – Full-stack MERN app with JWT authentication and CRUD operations
+- **Sign Language Detection** – Computer vision project converting hand gestures into text
+
+**💼 Experience**
+
+Software Developer Intern @ Frisson DevHub — built UI components for the SOCIFY platform using React.js
+
+**📫 Reach me**
+
+[LinkedIn](https://www.linkedin.com/in/anchal-yadav-0677442ba/) · anchalyadav72449@gmail.com
